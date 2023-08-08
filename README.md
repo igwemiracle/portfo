@@ -4,4 +4,4 @@
   - The email of the user
   - Subject,
   - and Message
-  - Including links to my social media sites.
+- Includes links to my social media sites.
